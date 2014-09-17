@@ -8,4 +8,8 @@ public class TestTest extends TestCase {
         super.setUp();
 
     }
+
+    public void testNothing(){
+
+    }
 }
